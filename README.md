@@ -1,27 +1,71 @@
-# BrainByte - Quiz Application 🧠⚡
+# 🎯 Quiz Application (BrainByte)
 
-## 📌 Description
-BrainByte is a Java-based quiz application designed to test knowledge with a user-friendly interface and real-time scoring.
+A Java-based Quiz Application designed to test users’ knowledge through an interactive and user-friendly interface. This project demonstrates core concepts of Java programming, GUI design, and application logic.
+
+---
 
 ## 🚀 Features
-- Multiple choice questions
-- Timer-based quiz
-- Instant score calculation
-- Simple and interactive UI
+
+* 🧩 Multiple-choice quiz questions
+* ⏱️ Timer-based quiz functionality
+* 📊 Score calculation and result display
+* 🔄 Restart quiz option
+* 🎨 Simple and clean user interface
+
+---
 
 ## 🛠️ Tech Stack
-- Java
-- NetBeans IDE
-- OOP Concepts
+
+* **Language:** Java
+* **GUI:** Swing / AWT
+* **IDE:** NetBeans
+* **Version Control:** Git & GitHub
+
+---
 
 ## 📂 Project Structure
-- src/ → Source code
-- nbproject/ → NetBeans configuration
 
-## 🎯 Future Enhancements
-- Add database (MySQL)
-- User login system
-- Web version using React + Node.js
+```
+Quiz-Application/
+│── src/
+│   ├── Login.java
+│   ├── Quiz.java
+│   ├── Score.java
+│── nbproject/
+│── build.xml
+│── manifest.mf
+```
 
-## 👩‍💻 Author
-Ruhani Mehta
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ruhani452/Quiz-Application.git
+   ```
+2. Open the project in NetBeans or any Java IDE
+3. Run the `Login.java` or main file
+
+---
+
+
+## 🌟 Future Enhancements
+
+* Add database integration (MySQL)
+* User login and authentication system
+* Leaderboard feature
+* Web-based version using React & Node.js
+
+---
+
+## 👨‍💻 Author
+
+**Ruhani Mehta**
+
+* 🎓 B.E. CSE Student
+* 💡 Passionate about DSA & Development
+
+---
+
